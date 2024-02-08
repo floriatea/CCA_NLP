@@ -4,7 +4,7 @@ This project seeks to explore the question: How has the integration of telemedic
 
 ### Data:
 
-The data for this analysis will be drawn from the News on the Web (NOW) corpus, which contains over 18.5 billion words from web-based newspapers and magazines spanning from 2017 to 2023. This corpus offers a rich, diverse, and contemporary collection of texts that reflect public discourse and media coverage on telehealth, providing insights into perceptions, experiences, and outcomes associated with telemedicine practices across the United States.
+The data for this analysis will be drawn from the News on the Web (NOW) corpus, which contains over 18.5 billion words from web-based newspapers and magazines spanning from 2017 to 2023. The corpus used is a subset of NOW that contains either the word "telehealth" or "telemedicine". It offers a rich, diverse, and contemporary collection of texts that reflect public discourse and media coverage on telehealth, providing insights into perceptions, experiences, and outcomes associated with telemedicine practices across the United States.
 
 ### Methods Plan:
 
